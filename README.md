@@ -3,7 +3,7 @@
 # Overview
 This game is a simple platformer style game where the player jumps from platform to platform and attempts to avoid falling to the bottom of the screen, which results in a game over.
 
-#How to Play:
+# How to Play:
 
 
 # Purpose
