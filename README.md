@@ -6,7 +6,7 @@ This game is a simple platformer style game where the player jumps from platform
 #How to Play:
 
 
-#Purpose
+# Purpose
 My purpose in creating this software was to experiment and learn more about game development, the general file structure of games and complex software, and the basics of creating more interactive software.
 [Software Demo Video](http://youtube.link.goes.here)
 
