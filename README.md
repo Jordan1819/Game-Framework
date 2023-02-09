@@ -7,11 +7,11 @@ This game is a simple platformer style game where the player jumps from platform
 
 
 #Purpose
-My purpose in creating this software was to experiment and learn more about pygame, the general file structure of games and complex software, and the basics of creating more interactive software.
+My purpose in creating this software was to experiment and learn more about game development, the general file structure of games and complex software, and the basics of creating more interactive software.
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
-I utilized visual studio code to create this software, and it is written in python and uses the pygame module.
+I utilized visual studio code to create this software, and it is written in python and uses the arcade module.
 
 # Useful Websites
 {Make a list of websites that you found helpful in this project}
