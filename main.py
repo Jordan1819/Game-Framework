@@ -1,6 +1,6 @@
 # Author: Jordan Waite
 # Inspiration and research for this project obtained from https://api.arcade.academy ,
-# https://w3schools.com , https://stackoverflow.com , and previous project of mine.
+# https://w3schools.com , https://stackoverflow.com , and previous projects of mine.
 
 import arcade
 
