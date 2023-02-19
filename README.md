@@ -9,7 +9,7 @@ The user can begin playing this game by simply running the main.py file in a cod
 
 # Purpose
 My purpose in creating this software was to experiment and learn more about game development, the general file structure of games and complex software, and the basics of creating more interactive software. It has always been a dream of mine to independently develop, write, and publish a two dimensional retro RPG game with a meaningful story and immersive and complex mechanics. The old-school Final Fantasy games had a huge impact on my taste in video games, books, and my interest in programming in general. I would love to spark that interest and passion in someone else while also investing in a creative outlet through a medium that hones and improves my software development skills.
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/wMCyNaXOr2k)
 
 # Development Environment
 This project was created in Microsoft Visual Studio Code and it is written in the Python programming language with the "arcade" Python module add-on.
